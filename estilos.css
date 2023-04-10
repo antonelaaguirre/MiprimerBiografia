@@ -1,0 +1,11 @@
+body{
+    background:#FFA07A ;
+    background-image: url(https://img.freepik.com/fotos-premium/tono-pastel-rosa-degradado-desenfocado-foto-abstracta-lineas-suaves-fondo-color-pantone_49683-4057.jpg?w=900) ; 
+     background-size: cover;
+      
+}
+
+header {text-align: center;
+border: black 3px solid;
+}
+h4 {border: black 1px solid;}
